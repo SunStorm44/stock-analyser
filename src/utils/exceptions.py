@@ -1,0 +1,2 @@
+class EmptyStatementError(Exception):
+    pass
